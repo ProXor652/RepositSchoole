@@ -1,0 +1,15 @@
+C:\Users\pmeta\Desktop\C#\HelloConsole\bin\Debug\net6.0\HelloConsole.exe
+C:\Users\pmeta\Desktop\C#\HelloConsole\bin\Debug\net6.0\HelloConsole.deps.json
+C:\Users\pmeta\Desktop\C#\HelloConsole\bin\Debug\net6.0\HelloConsole.runtimeconfig.json
+C:\Users\pmeta\Desktop\C#\HelloConsole\bin\Debug\net6.0\HelloConsole.dll
+C:\Users\pmeta\Desktop\C#\HelloConsole\bin\Debug\net6.0\HelloConsole.pdb
+C:\Users\pmeta\Desktop\C#\HelloConsole\obj\Debug\net6.0\HelloConsole.csproj.AssemblyReference.cache
+C:\Users\pmeta\Desktop\C#\HelloConsole\obj\Debug\net6.0\HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmeta\Desktop\C#\HelloConsole\obj\Debug\net6.0\HelloConsole.AssemblyInfoInputs.cache
+C:\Users\pmeta\Desktop\C#\HelloConsole\obj\Debug\net6.0\HelloConsole.AssemblyInfo.cs
+C:\Users\pmeta\Desktop\C#\HelloConsole\obj\Debug\net6.0\HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\pmeta\Desktop\C#\HelloConsole\obj\Debug\net6.0\HelloConsole.dll
+C:\Users\pmeta\Desktop\C#\HelloConsole\obj\Debug\net6.0\refint\HelloConsole.dll
+C:\Users\pmeta\Desktop\C#\HelloConsole\obj\Debug\net6.0\HelloConsole.pdb
+C:\Users\pmeta\Desktop\C#\HelloConsole\obj\Debug\net6.0\HelloConsole.genruntimeconfig.cache
+C:\Users\pmeta\Desktop\C#\HelloConsole\obj\Debug\net6.0\ref\HelloConsole.dll
