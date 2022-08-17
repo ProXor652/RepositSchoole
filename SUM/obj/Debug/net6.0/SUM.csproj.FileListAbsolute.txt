@@ -1,0 +1,15 @@
+C:\Users\pmeta\Desktop\C#\SUM\obj\Debug\net6.0\SUM.csproj.AssemblyReference.cache
+C:\Users\pmeta\Desktop\C#\SUM\obj\Debug\net6.0\SUM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmeta\Desktop\C#\SUM\obj\Debug\net6.0\SUM.AssemblyInfoInputs.cache
+C:\Users\pmeta\Desktop\C#\SUM\obj\Debug\net6.0\SUM.AssemblyInfo.cs
+C:\Users\pmeta\Desktop\C#\SUM\obj\Debug\net6.0\SUM.csproj.CoreCompileInputs.cache
+C:\Users\pmeta\Desktop\C#\SUM\bin\Debug\net6.0\SUM.exe
+C:\Users\pmeta\Desktop\C#\SUM\bin\Debug\net6.0\SUM.deps.json
+C:\Users\pmeta\Desktop\C#\SUM\bin\Debug\net6.0\SUM.runtimeconfig.json
+C:\Users\pmeta\Desktop\C#\SUM\bin\Debug\net6.0\SUM.dll
+C:\Users\pmeta\Desktop\C#\SUM\bin\Debug\net6.0\SUM.pdb
+C:\Users\pmeta\Desktop\C#\SUM\obj\Debug\net6.0\SUM.dll
+C:\Users\pmeta\Desktop\C#\SUM\obj\Debug\net6.0\refint\SUM.dll
+C:\Users\pmeta\Desktop\C#\SUM\obj\Debug\net6.0\SUM.pdb
+C:\Users\pmeta\Desktop\C#\SUM\obj\Debug\net6.0\SUM.genruntimeconfig.cache
+C:\Users\pmeta\Desktop\C#\SUM\obj\Debug\net6.0\ref\SUM.dll
