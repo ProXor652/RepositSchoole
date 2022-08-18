@@ -1,0 +1,15 @@
+C:\Users\pmeta\Desktop\C#\Progect5\obj\Debug\net6.0\Progect5.csproj.AssemblyReference.cache
+C:\Users\pmeta\Desktop\C#\Progect5\obj\Debug\net6.0\Progect5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmeta\Desktop\C#\Progect5\obj\Debug\net6.0\Progect5.AssemblyInfoInputs.cache
+C:\Users\pmeta\Desktop\C#\Progect5\obj\Debug\net6.0\Progect5.AssemblyInfo.cs
+C:\Users\pmeta\Desktop\C#\Progect5\obj\Debug\net6.0\Progect5.csproj.CoreCompileInputs.cache
+C:\Users\pmeta\Desktop\C#\Progect5\bin\Debug\net6.0\Progect5.exe
+C:\Users\pmeta\Desktop\C#\Progect5\bin\Debug\net6.0\Progect5.deps.json
+C:\Users\pmeta\Desktop\C#\Progect5\bin\Debug\net6.0\Progect5.runtimeconfig.json
+C:\Users\pmeta\Desktop\C#\Progect5\bin\Debug\net6.0\Progect5.dll
+C:\Users\pmeta\Desktop\C#\Progect5\bin\Debug\net6.0\Progect5.pdb
+C:\Users\pmeta\Desktop\C#\Progect5\obj\Debug\net6.0\Progect5.dll
+C:\Users\pmeta\Desktop\C#\Progect5\obj\Debug\net6.0\refint\Progect5.dll
+C:\Users\pmeta\Desktop\C#\Progect5\obj\Debug\net6.0\Progect5.pdb
+C:\Users\pmeta\Desktop\C#\Progect5\obj\Debug\net6.0\Progect5.genruntimeconfig.cache
+C:\Users\pmeta\Desktop\C#\Progect5\obj\Debug\net6.0\ref\Progect5.dll

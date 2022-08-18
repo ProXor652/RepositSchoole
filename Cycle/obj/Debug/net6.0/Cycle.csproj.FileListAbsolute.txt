@@ -1,0 +1,15 @@
+C:\Users\pmeta\Desktop\C#\Cycle\bin\Debug\net6.0\Cycle.exe
+C:\Users\pmeta\Desktop\C#\Cycle\bin\Debug\net6.0\Cycle.deps.json
+C:\Users\pmeta\Desktop\C#\Cycle\bin\Debug\net6.0\Cycle.runtimeconfig.json
+C:\Users\pmeta\Desktop\C#\Cycle\bin\Debug\net6.0\Cycle.dll
+C:\Users\pmeta\Desktop\C#\Cycle\bin\Debug\net6.0\Cycle.pdb
+C:\Users\pmeta\Desktop\C#\Cycle\obj\Debug\net6.0\Cycle.csproj.AssemblyReference.cache
+C:\Users\pmeta\Desktop\C#\Cycle\obj\Debug\net6.0\Cycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmeta\Desktop\C#\Cycle\obj\Debug\net6.0\Cycle.AssemblyInfoInputs.cache
+C:\Users\pmeta\Desktop\C#\Cycle\obj\Debug\net6.0\Cycle.AssemblyInfo.cs
+C:\Users\pmeta\Desktop\C#\Cycle\obj\Debug\net6.0\Cycle.csproj.CoreCompileInputs.cache
+C:\Users\pmeta\Desktop\C#\Cycle\obj\Debug\net6.0\Cycle.dll
+C:\Users\pmeta\Desktop\C#\Cycle\obj\Debug\net6.0\refint\Cycle.dll
+C:\Users\pmeta\Desktop\C#\Cycle\obj\Debug\net6.0\Cycle.pdb
+C:\Users\pmeta\Desktop\C#\Cycle\obj\Debug\net6.0\Cycle.genruntimeconfig.cache
+C:\Users\pmeta\Desktop\C#\Cycle\obj\Debug\net6.0\ref\Cycle.dll

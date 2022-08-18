@@ -1,0 +1,15 @@
+C:\Users\pmeta\Desktop\C#\Giri\obj\Debug\net6.0\Giri.csproj.AssemblyReference.cache
+C:\Users\pmeta\Desktop\C#\Giri\obj\Debug\net6.0\Giri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmeta\Desktop\C#\Giri\obj\Debug\net6.0\Giri.AssemblyInfoInputs.cache
+C:\Users\pmeta\Desktop\C#\Giri\obj\Debug\net6.0\Giri.AssemblyInfo.cs
+C:\Users\pmeta\Desktop\C#\Giri\obj\Debug\net6.0\Giri.csproj.CoreCompileInputs.cache
+C:\Users\pmeta\Desktop\C#\Giri\bin\Debug\net6.0\Giri.exe
+C:\Users\pmeta\Desktop\C#\Giri\bin\Debug\net6.0\Giri.deps.json
+C:\Users\pmeta\Desktop\C#\Giri\bin\Debug\net6.0\Giri.runtimeconfig.json
+C:\Users\pmeta\Desktop\C#\Giri\bin\Debug\net6.0\Giri.dll
+C:\Users\pmeta\Desktop\C#\Giri\bin\Debug\net6.0\Giri.pdb
+C:\Users\pmeta\Desktop\C#\Giri\obj\Debug\net6.0\Giri.dll
+C:\Users\pmeta\Desktop\C#\Giri\obj\Debug\net6.0\refint\Giri.dll
+C:\Users\pmeta\Desktop\C#\Giri\obj\Debug\net6.0\Giri.pdb
+C:\Users\pmeta\Desktop\C#\Giri\obj\Debug\net6.0\Giri.genruntimeconfig.cache
+C:\Users\pmeta\Desktop\C#\Giri\obj\Debug\net6.0\ref\Giri.dll
