@@ -50,15 +50,30 @@
 
 //Задача 3
 
-Console.WriteLine("Введите число ");
-string astr = Console.ReadLine();
-int a = int.Parse(astr);
+//Console.WriteLine("Введите число ");
+//string astr = Console.ReadLine();
+//int a = int.Parse(astr);
 
-if(a%2 == 0)
+//if(a%2 == 0)
+  // {
+    //Console.WriteLine("Данное число является чётным");
+   //}
+   // else
+    //{
+    //Console.WriteLine("Данное число является нечётным"); 
+    //}
+
+//Задача 4
+
+
+Console.WriteLine("Введите число: ");
+string nstr = Console.ReadLine();
+int n = int.Parse(nstr);
+int a = 0;
+    
+while (a<=n-1)
    {
-    Console.WriteLine("Данное число является чётным");
-   }
-    else
-    {
-    Console.WriteLine("Данное число является нечётным"); 
-    }
+      a++;
+    if(a % 2 == 0) 
+    Console.WriteLine(a);       
+      }
